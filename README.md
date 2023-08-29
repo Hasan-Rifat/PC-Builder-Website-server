@@ -1,7 +1,9 @@
-<!-- # Simple-Book-Catalog-Application-server
+# Simple-Book-Catalog-Application-server
 
-LiveSide link [Click here](https://github.com/Hasan-Rifat/Simple-Book-Catalog-Application-client).
+client-side link [Click here](https://github.com/Hasan-Rifat/PC-Builder-Website).
 
-Server Link [Click here](https://github.com/Hasan-Rifat/Simple-Book-Catalog-Application-server). -->
+Server Link [Click here](https://github.com/Hasan-Rifat/PC-Builder-Website-server).
+
+live Link [Click here](https://pc-builder-website-omega.vercel.app).
 
 # PC-Builder-Website-server
